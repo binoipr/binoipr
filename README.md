@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋, Welcome to my world of code 🤗.
+I am a self taught Full Stack Developer
+
+My Skills 🤹 <hr>
+Html, Css, Javascript, React, Redux, Express, Node, Mongodb,
+Sql, Java, C/C++, Scss, Bootstrap.
 
 <!--
 **binoipr/binoipr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
