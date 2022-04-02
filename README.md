@@ -6,7 +6,8 @@ Html, Css, Javascript, React, Redux, Express, Node, Mongodb,
 Sql, Java, C/C++, Scss, Bootstrap.
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="binoi21" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/binoi21?trk=profile-badge">Binoy P R</a></div>
+              
 
 
 <!--
